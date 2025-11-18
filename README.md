@@ -1,5 +1,12 @@
 # <div align="center">🌘 Y3t2 — Zeno</div>
 
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=y3t2&color=ff007f&style=flat-square&logo=fastapi" alt="Profile Views"/>
+
+</p>
+
+
 <div align="center">
   
 ### *"I'm starting the Frontend, because I'm quite interested in it."*  
