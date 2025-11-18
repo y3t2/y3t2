@@ -1,9 +1,5 @@
 # <div align="center">🌘 Y3t2 — Zeno</div>
 
-<p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%236a37ff'/><stop offset='1' stop-color='%231a1a1a'/></linearGradient></defs><rect width='140' height='140' fill='%23101012'/><circle cx='70' cy='70' r='60' fill='url(%23g)'/><circle cx='92' cy='54' r='34' fill='%23101012' opacity='0.95'/></svg>" width="140" style="border-radius:50%;" alt="Y3t2 avatar" />
-</p>
-
 <div align="center">
   
 ### *"I'm starting the Frontend, because I'm quite interested in it."*  
