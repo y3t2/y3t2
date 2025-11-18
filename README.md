@@ -1,11 +1,11 @@
 # <div align="center">🌘 Y3t2 — Zeno</div>
 
 <p align="center">
-  <img src="https://i.imgur.com/ZnZ2cBt.png" width="140" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/everdrone/img-assets/main/dark-aesthetic-moon.png" width="140" style="border-radius: 50%;" />
 </p>
 
 <div align="center">
-  
+
 ### *"I'm starting the Frontend, because I'm quite interested in it."*  
 💻 Future Frontend Developer • ⚡ Learning everyday • 🖤 Dark & clean aesthetic
 
@@ -49,4 +49,3 @@
 
 ## 🖤 Special Aesthetic Line  
 > *“Code in the dark. Create in the silence.”*
-
