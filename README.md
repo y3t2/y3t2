@@ -1,22 +1,52 @@
-<h2 align="center">👋 Welcome to Y3t2's GitHub profile</h2>
+# <div align="center">🌘 Y3t2 — Zeno</div>
 
-<h3 align="center">👨‍💻 I'm starting the Frontend, because I'm quite interested in it.</h3>
+<p align="center">
+  <img src="https://i.imgur.com/ZnZ2cBt.png" width="140" style="border-radius: 50%;" />
+</p>
+
+<div align="center">
+  
+### *"I'm starting the Frontend, because I'm quite interested in it."*  
+💻 Future Frontend Developer • ⚡ Learning everyday • 🖤 Dark & clean aesthetic
+
+</div>
 
 ---
 
-<h3 align="center">🛠 Skills & Tools </h3>
-
+## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/discord.js-738ADB?style=flat-square&logo=discord&logoColor=white" alt="discord.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,vscode,discordjs,github&theme=dark" />
 </p>
 
-<h1 align="center">My Stats</h1>
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=y3t2&theme=algolia" alt="Stats">
-</p>
+---
+
+## 📈 My GitHub Stats  
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=y3t2&show_icons=true&theme=dark&hide_border=true&border_radius=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3t2&layout=compact&theme=dark&hide_border=true&border_radius=8" />
+
+</div>
+
+---
+
+## 🧩 About Me  
+
+- 🌑 I love **dark-themed UI and clean design**  
+- 🌱 Currently learning **Frontend** (HTML/CSS/JS → React soon?)  
+- 🧠 Interested in **Discord bots**, **Node.js**, and modern web development  
+- 🎯 Goal: Build full, modern, aesthetic web interfaces  
+- 🖤 Favorite style: *Dark, minimalistic, stylish*
+
+---
+
+## 🐾 Contact  
+- 📍 Poland  
+- 🧩 Discord : **y3t2**  
+- 🌐 Portfolio : *I can create one for you in the same aesthetic — just ask.*
+
+---
+
+## 🖤 Special Aesthetic Line  
+> *“Code in the dark. Create in the silence.”*
+
